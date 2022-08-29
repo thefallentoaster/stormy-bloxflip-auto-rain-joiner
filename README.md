@@ -1,8 +1,9 @@
 # SLAJ Bloxflip-auto-rain-joiner
-# credits to: https://github.com/amprocode/Bloxflip-auto-rain-joiner  
+
+- credits to: https://github.com/amprocode/Bloxflip-auto-rain-joiner  
 
 ## SLAJ v1.0:
-- added 3 new features and uploaded to Github
+- added new features and uploaded to Github
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
