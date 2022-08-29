@@ -97,3 +97,4 @@ copy(localStorage.getItem('_DO_NOT_SHARE_BLOXFLIP_TOKEN'))
 
 ## Current Issues:
 - Bot takes his time for starting the status message after joining rain. It takes up to 10 minutes.
+- You have to update all .png files in the assets folder for you screen resolution. 
