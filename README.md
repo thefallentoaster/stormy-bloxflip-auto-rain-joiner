@@ -1,6 +1,9 @@
 # SLAJ Bloxflip-auto-rain-joiner
 
+
+- my discord: https://discord.gg/XBcaXJejFQ
 - credits to: https://github.com/amprocode/Bloxflip-auto-rain-joiner  
+
 
 ## SLAJ v1.0:
 - added new features and uploaded to Github
