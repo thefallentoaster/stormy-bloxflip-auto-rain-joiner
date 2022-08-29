@@ -1,0 +1,10 @@
+pyautogui
+discord_webhook
+cloudscraper
+pillow
+opencv-python
+colorama
+times
+keyboard
+art
+pyarmor
