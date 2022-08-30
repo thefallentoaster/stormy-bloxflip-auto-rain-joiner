@@ -1,9 +1,12 @@
-# SLAJ Bloxflip-auto-rain-joiner
+# SLAJ Bloxflip-Auto-Rain-Joiner
 
 
 - my discord: https://discord.gg/XBcaXJejFQ
 - credits to: https://github.com/amprocode/Bloxflip-auto-rain-joiner  
 
+
+## SLAJ v1.1
+- added guided setup and auto cashout
 
 ## SLAJ v1.0:
 - added new features and uploaded to Github
@@ -22,6 +25,7 @@
 1) download the latest version of the program
 2) Extract the files to a foler of your choice
 3) run the **"install.bat"** file and it should start running
+4) get an free licence on my discord
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
