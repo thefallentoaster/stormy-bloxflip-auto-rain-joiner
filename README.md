@@ -1,5 +1,4 @@
-# stormy bloxflip-auto-rain-joiner
-
+# Stormy
 
 - my discord: https://discord.gg/XBcaXJejFQ
 - credits to: https://github.com/amprocode/Bloxflip-auto-rain-joiner  
