@@ -4,16 +4,16 @@
 - credits to: https://github.com/amprocode/Bloxflip-auto-rain-joiner  
 
 
-## stormy v1.3
+## Stormy v1.3
 - added guided setup and auto cashout
 
-## stormy 1.2
+## Stormy 1.2
 - fixed some bugs
 
-## stormy 1.1
+## Stormy 1.1
 - fixed some bugs
 
-## stormy v1.0:
+## Stormy v1.0:
 - added new features and uploaded to Github
 
 
