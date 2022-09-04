@@ -1,14 +1,20 @@
-# SLAJ Bloxflip-Auto-Rain-Joiner
+# stormy Bloxflip-Auto-Rain-Joiner
 
 
 - my discord: https://discord.gg/XBcaXJejFQ
 - credits to: https://github.com/amprocode/Bloxflip-auto-rain-joiner  
 
 
-## SLAJ v1.1
+## stormy v1.3
 - added guided setup and auto cashout
 
-## SLAJ v1.0:
+## stormy 1.2
+- fixed some bugs
+
+## stormy 1.1
+- fixed some bugs
+
+## stormy v1.0:
 - added new features and uploaded to Github
 
 
@@ -17,7 +23,6 @@
 ## Information:
 - When there is a rain at [bloxflip](https://bloxflip.com) this program will join the rain and let you know some information about it
 - It also have's a few more funktions like auto withdraw, status notifier and rain notifier!
-- If you dont trust it, join my discord i will proof that the bot is not an virus!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -101,4 +106,4 @@ copy(localStorage.getItem('_DO_NOT_SHARE_BLOXFLIP_TOKEN'))
 
 ## Current Issues:
 - Bot takes his time for starting the status message after joining rain. It takes up to 10 minutes.
-- You have to update all .png files in the assets folder for you screen resolution. 
+- You have to update all .png files for the auto cashout (if you enabled it) in the assets folder for you screen resolution. 
