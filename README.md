@@ -1,4 +1,4 @@
-# stormy Bloxflip-Auto-Rain-Joiner
+# stormy bloxflip-auto-rain-joiner
 
 
 - my discord: https://discord.gg/XBcaXJejFQ
