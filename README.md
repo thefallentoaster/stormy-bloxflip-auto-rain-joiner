@@ -60,7 +60,9 @@ Default config.json file:
   "webhookbalance": "https://discord.com/xxxxxxxxxxxxxx",
   "webhookwithdraw": "https://discord.com/xxxxxxxxxxxxxx",
   "webhookannounce": "https://discord.com/xxxxxxxxxxxxxx",
-  "authorization": "authtoken"
+  "authorization": "authtoken",
+  "CaptchaUID": "captcha_uid",
+  "CaptchaAPI": "captcha_api"
 }
 ```
 ### minimum_amount:
@@ -104,6 +106,9 @@ This is your bloxflip login token, this is used to get your username and robloxi
 copy(localStorage.getItem('_DO_NOT_SHARE_BLOXFLIP_TOKEN'))
 ```
 - You should now have your bloxflip token copied to your clipboard, just open your config file and paste it inbetween the quotation marks.
+
+## captchauid and captchaapi:
+Go on my discord to see how to get these.
 
 ## Current Issues:
 - Bot takes his time for starting the status message after joining rain. It takes up to 10 minutes.
