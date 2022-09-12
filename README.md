@@ -1,8 +1,12 @@
 # Stormy
 
+# captcha solver
+
 - my discord: https://discord.gg/XBcaXJejFQ
 - credits to: https://github.com/amprocode/Bloxflip-auto-rain-joiner  
 
+## Stormy v1.4
+--added captcha solving api
 
 ## Stormy v1.3
 - added guided setup and auto cashout
